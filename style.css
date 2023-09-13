@@ -10,12 +10,13 @@ body{
 }
 .friends{
 	display: flex;
-	margin: 0 auto;
-	justify-content: center;
 	justify-content: space-evenly;
 }
 .friends img{
 	height:300px;
+}
+.friends p{
+	text-align: center;
 }
 footer{
 		background-color:red;
