@@ -1,12 +1,13 @@
 .profile img{
 	border-radius:50%;
+	border:10px solid black;
 }
 body{
 	background-color:pink;
-	background-image:url(image/image5.jpg);
+	background-image:url(image/image3.jpg);
 	background-repeat:no-repeat;
 	background-position:top;
-	background-size:100% 35%;
+	background-size:100% 30%;
 }
 .friends{
 	display: flex;
@@ -18,8 +19,9 @@ body{
 .friends p{
 	text-align: center;
 }
+
 footer{
-		background-color:red;
+		background-color:orange;
 }
 footer a{
 		text-decoration:none;
