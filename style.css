@@ -1,6 +1,6 @@
 .profile img{
 	border-radius:50%;
-	border:10px solid black;
+	border:25px solid black;
 }
 body{
 	background-color:pink;
@@ -21,7 +21,7 @@ body{
 }
 
 footer{
-		background-color:orange;
+		background-color:violet;
 }
 footer a{
 		text-decoration:none;
